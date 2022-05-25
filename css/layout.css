@@ -24,4 +24,46 @@
 
 /* Positioning Classes */
 
+.large {
+  height: 66%;
+  width: 66%; 
+  float: left;
+  display: block;
+  margin: 0 10px 10px 0;
+}
+.rectangle {
+height: 100%;
+width: 31%;
+margin: 0 0 10px 10px;
+float: right;
+}
+.column {
+  display: block;
+  width: 100%;
+  clear: both;
+}
+.small {
+  width: 33%;
+  height: 33%;
+  display: inline-block;
+  padding: 12px 
+}
+
+.wrapper {
+  display: block;
+  width: 100%;
+  clear: both;
+}
+.border_right {
+  width: 33%;
+  height: 33%;
+  display: inline-block;
+  padding: 12px
+}
+ 
+
+
+
+
+ 
 
